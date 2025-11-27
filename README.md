@@ -5,4 +5,4 @@ this is my first demo Repo on github
 SAMEER RAZA
 
 # Organization:
-TREZ pvt.
+TREZ pvt ltd.
